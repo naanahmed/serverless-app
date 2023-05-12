@@ -1,2 +1,2 @@
 # Getting Started
-Serverless todo project
+Serverless todo project update
